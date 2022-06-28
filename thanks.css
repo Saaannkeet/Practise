@@ -1,0 +1,50 @@
+.main{
+    border:none;
+    width: 300px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px black;
+}
+
+.thank{
+    position: absolute;
+    margin-left: 60px;
+}
+
+.p1{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 70px;
+  
+}
+
+.p2{
+    position: absolute;
+    margin-left: 85px;
+    margin-top: 90px;
+}
+
+.btn{
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    margin-left: 55px;
+    margin-top: 150px;
+    background-color: 		#00FF7F;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+
+.checkicon{
+    border-radius: 70px;
+position: absolute;
+  margin-top: -250px;
+  margin-left: 210px;
+}
+
+
+
